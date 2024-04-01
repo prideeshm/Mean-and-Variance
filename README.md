@@ -1,7 +1,7 @@
-## Name:Prideesh M
-## Reg no:212223040154
+                                               ## Name:Prideesh M
+                                               ## Reg no:212223040154
 
-#  Mean and variance of a discrete  distribution
+# EX-1:Mean and variance of a discrete  distribution
 
 
 # Aim : 
